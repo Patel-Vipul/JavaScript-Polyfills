@@ -66,6 +66,6 @@ This project is part of my journey to master JavaScript fundamentals by understa
 
 ## 👨‍💻 Author
 
-Built with curiosity and consistency by **Ace**.
+Built with curiosity and consistency by Patel-Vipul.
 
-GitHub: https://github.com/your-username
+GitHub: (https://github.com/Patel-Vipul)
